@@ -4,7 +4,8 @@ Project CB is a choose-your-own-adventure text-based RPG game based on the COVID
 ## Release
 You can download and play the final, working version under **Releases**.
 
-Developed with Python.
+Developed with:
+* Python
 
 ## About
 Project CB is a choose-your-own-adventure text-based RPG game based on the COVID-19 pandemic in Singapore in 2020. The game title is derived from when the government announced the first lockdown named 'Circuit Breaker'. In this game, you play through a day in the life of a student during CB, attempting to balance your school-life ratio. There are elements throughout the game that are reminiscent of events that occurred following the lockdown announcement, for eg. panic buying, closure of popular stores and online classes to name a few. Note that the decisions you make influence your happiness, health and grades throughout the game!
