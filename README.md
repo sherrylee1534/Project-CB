@@ -4,6 +4,9 @@ Project CB is a choose-your-own-adventure text-based RPG game based on the COVID
 
 Project CB was developed as a project for 10.009 The Digital World.
 
+Developed with:
+* Python
+
 ## Features
 * Pokémon-style battles
 * Hidden stats (Happiness, Health, Grades)
@@ -22,9 +25,6 @@ Project CB was developed as a project for 10.009 The Digital World.
 
 ## Release
 You can download and play the final, working version under **Releases**.
-
-Developed with:
-* Python
 
 ## Known Bugs and Issues
 No known bugs and issues.
