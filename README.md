@@ -14,13 +14,13 @@ Developed with:
 
 ## Screenshots
 <p align="center">
-  <img src="images/project_cb_ss1.png" >
+  <img src="screenshots/project_cb_ss1.png" >
 </p>
 <p align="center">
-  <img src="images/project_cb_ss2.png" >
+  <img src="screenshots/project_cb_ss2.png" >
 </p>
 <p align="center">
-  <img src="images/project_cb_ss3.png" >
+  <img src="screenshots/project_cb_ss3.png" >
 </p>
 
 ## Release
