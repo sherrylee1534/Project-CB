@@ -24,7 +24,7 @@ Developed with:
 </p>
 
 ## Release
-You can download and play the final, working version under **Releases**.
+Final, working version under **Releases**.
 
 ## Known Bugs and Issues
 No known bugs and issues.
